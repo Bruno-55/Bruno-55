@@ -1,0 +1,4 @@
+- Hi, I’m @Bruno-55
+- I'm Brazilian, 21y 
+- Beginner programmer and learning JavaScript
+- You can contact me at brunosnmuniz@gmail.com
