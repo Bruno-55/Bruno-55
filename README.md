@@ -1,4 +1,5 @@
 - Hi, I’m @Bruno-55
-- I'm Brazilian, 21y 
-- Beginner programmer and learning JavaScript
-- You can contact me at brunosnmuniz@gmail.com
+- I'm Brazilian, 22y 
+- Beginner programmer, just fineshed cs50
+- Currently coursing FreeCodeCamp
+- Currently working on personal projects
